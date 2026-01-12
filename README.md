@@ -148,17 +148,6 @@ Motivée par l’apprentissage continu et la mise en pratique via des projets co
 
 ---
 
-## Formation
-- BTS SIO – option SLAM  
-- Bachelor Informatique (en cours)
-
----
-
-## Certifications
-- Certification **SecNum** – ANSSI
-
----
-
 ## Objectif Professionnel
 
 Évoluer vers un poste en **cybersécurité**, **systèmes & réseaux** ou **infrastructure IT**, avec une forte composante technique, opérationnelle et sécurité.
